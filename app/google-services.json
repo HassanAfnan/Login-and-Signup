@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "739983800151",
+    "firebase_url": "https://projectblogg-c2edb.firebaseio.com",
+    "project_id": "projectblogg-c2edb",
+    "storage_bucket": "projectblogg-c2edb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739983800151:android:910692caae865ad33c7012",
+        "android_client_info": {
+          "package_name": "com.example.blogg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739983800151-4tu05a3pbuu8fmh4c4sf6qokhpfequ0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDmsrFwx7zvCUbcSOdQ7qCN0lLMyrsxro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739983800151-4tu05a3pbuu8fmh4c4sf6qokhpfequ0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
